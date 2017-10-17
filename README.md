@@ -617,7 +617,7 @@ Quando temos um algoritimos que possuem mais de um hiperparâmetro como por exem
 <table style="width:100%;text-align:center" border="1">
   <tr>
     <th>Kernel/ Gamma</th>
-    <th>Linaer</th> 
+    <th>Linear</th> 
     <th>Polimomial</th>
   </tr>
   <tr>
